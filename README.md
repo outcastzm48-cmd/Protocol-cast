@@ -1,11 +1,4 @@
 <img width="816" height="1440" alt="IMG-20260817-WA0449" src="https://github.com/user-attachments/assets/9c29e5a1-5b8a-4e79-89d5-6c491140df80" />
-<p align="center">
-  <img src="banner.png" width="100%"/>
-</p>
-<h1 align="center">⚡ PROTOCOL CAST v3.0 ULTIMATE ⚡</h1>
-<p align="center"><img src="logo.png" width="120"/></p>
-<p align="center"><b>🔥 The Complete Tunnel Protocol Scanner for Termux + PC 🔥</b></p>
-
 ## 📌 WHAT IS THIS?
 Protocol Cast tests if websites can be used for tunneling. It checks protocols and HTTP payloads to see what works.
 
@@ -24,7 +17,7 @@ CLI = Command Line Interface. You type commands
 
 ## 🚀 INSTALLATION - TERMUX
 1. `pkg update -y && pkg install python git -y`
-2. `git clone https://github.com/YOURUSERNAME/protocol-cast.git`
+2. `git clone https://github.com/outcastzm48-cmd/Protocol-cast.git`
 3. `cd protocol-cast`
 4. `pip install -r requirements.txt`
 5. `python protocol_cast.py`
@@ -40,5 +33,5 @@ CLI = Command Line Interface. You type commands
 For education and testing only. Do not attack websites. Use on sites you own.
 
 ## 👑 CREDITS
-Made by YOU | Version 3.0 ULTIMATE
+Made by OUTCAST | Version 3.0 ULTIMATE
 Give it a ⭐ if it helped!
